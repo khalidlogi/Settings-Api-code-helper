@@ -1,4 +1,6 @@
 ### add setting link under the plugin name
+<img width="148" alt="image" src="https://user-images.githubusercontent.com/20868071/235437916-f96b57a9-e08e-4234-ad71-fa53dc5b280b.png">
+
 ```php
 add_filter("plugin_action_links_wpretro/wpretro.php", array($this, 'add_settings_link'));
 
