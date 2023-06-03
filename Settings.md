@@ -11,4 +11,4 @@ function add_settings_link($links)
 		return $links;
 	}
   ```
-  
+https://codex.wordpress.org/images/7/7e/editing-settings-api-example.png
