@@ -12,3 +12,4 @@ function add_settings_link($links)
 	}
   ```
 https://codex.wordpress.org/images/7/7e/editing-settings-api-example.png
+![editing-settings-api-example](https://github.com/khalidlogi/Settings-Api-code-helper/assets/20868071/5d1bb590-3a71-4849-b493-2431f866a1cc)
