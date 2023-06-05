@@ -29,7 +29,8 @@ Here is an example of how to create a settings page using the WordPress Settings
       'manage_options', // Capability
       'my-settings-page' // Menu slug
     );
-    ```
+    
+```
     
 Once you have created a settings page, you will need to register your settings group. 
 This is done using the <strong>register_setting()</strong> function. 
