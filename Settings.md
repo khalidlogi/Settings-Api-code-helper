@@ -1,3 +1,6 @@
+## setting field
+<img width="755" alt="image" src="https://github.com/khalidlogi/Settings-Api-code-helper/assets/20868071/16debe5e-10c9-4241-9bcd-be45f5c185b2">
+
 ### add setting link under the plugin name
 <img width="148" alt="image" src="https://user-images.githubusercontent.com/20868071/235437916-f96b57a9-e08e-4234-ad71-fa53dc5b280b.png">
 
